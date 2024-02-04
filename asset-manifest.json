@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jester-match/static/css/main.ba1b6710.css",
+    "main.js": "/jester-match/static/js/main.89a9ad8e.js",
+    "index.html": "/jester-match/index.html",
+    "main.ba1b6710.css.map": "/jester-match/static/css/main.ba1b6710.css.map",
+    "main.89a9ad8e.js.map": "/jester-match/static/js/main.89a9ad8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba1b6710.css",
+    "static/js/main.89a9ad8e.js"
+  ]
+}
