@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import './App.css';
 import SingleCard from './Components/SingleCard/SingleCard';
-import Confetti from 'react-confetti'
+import Confetti from 'react-confetti';
 
 const setOfPlayingCard = [
   {'src': '/img/y-joker.png', matched: false},
